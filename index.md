@@ -1,13 +1,13 @@
 ---
 title: Portfolio
 feature_text: |
-  ## A little bit more about me
-  This site is intended to share and express my story
+  ## Hi, I'm Jon
+  It's nice to meet you. Let's dive in. 
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "This is an excerpt."
 ---
 
-Hi, I'm Jon. Welcome to my site. I'll leave this open to the public while I work on it. My apologies if you find yourself reading Lorem Ipsums and sample text.  
+Welcome to my site. I'll leave this open to the public while I work on it. My apologies if you find yourself reading Lorem Ipsums and sample text.  
 
 ## Features
 
