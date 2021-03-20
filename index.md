@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Home
 position: 0
 feature_text: "## Hi, I'm Jon\nIt's nice to meet you \n"
 feature_image: https://picsum.photos/1300/400?image=989
