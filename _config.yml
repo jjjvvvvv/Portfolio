@@ -48,7 +48,7 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 - jekyll-include-cache
-paginate: 2
+paginate: 5
 paginate_path: blog/page:num
 author: Jon Virga
 social:
