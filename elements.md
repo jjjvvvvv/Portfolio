@@ -1,9 +1,11 @@
 ---
 title: Elements
 position: 1
-feature_text: 'A demo of Markdown and HTML includes
+feature_text: |-
+  What do I want this page to be?
 
-'
+  * Resume
+  * Contact Form
 feature_image: https://picsum.photos/2560/600?image=873
 excerpt: A demo of Markdown and HTML includes
 aside: true
