@@ -45,10 +45,10 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-commonmark
-- jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
-paginate: 2
+- jekyll-include-cache
+paginate: 3
 paginate_path: blog/page:num
 author: Jon Virga
 social:
