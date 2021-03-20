@@ -10,4 +10,4 @@ feature_text: 'the second post in a series.
 
 2nd example post. 
 
-I don't know why it isn't showing up though. I want this to show up though.
+I don't know why it isn't showing up though. I want this to show up though. Maybe it will work now.
