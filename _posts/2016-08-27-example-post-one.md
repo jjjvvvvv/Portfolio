@@ -1,8 +1,9 @@
 ---
 title: Description of an Alembic
+date: 2016-08-27 00:00:00 -04:00
 categories:
 - Dunsel's
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: https://picsum.photos/2560/600?image=872
 ---
 
 Dunsel's is a company I started with my friend and peer, William McCarthy.

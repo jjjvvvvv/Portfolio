@@ -1,10 +1,8 @@
 ---
 title: Portfolio
-feature_text: |
-  ## Hi, I'm Jon
-  It's nice to meet you. Let's dive in. 
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "This is an excerpt."
+feature_text: "## Hi, I'm Jon\nIt's nice to meet you. Let's dive in. \n"
+feature_image: https://picsum.photos/1300/400?image=989
+excerpt: This is an excerpt.
 ---
 
 Welcome to my site. I'll leave this open to the public while I work on it. My apologies if you find yourself reading Lorem Ipsums and sample text.  
