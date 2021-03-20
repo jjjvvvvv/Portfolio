@@ -6,7 +6,7 @@ collections:
     title: Posts
     output: true
     description: Some of my thoughts and ideas
-    feature_text: 'Welcome to my blog'
+    feature_text: Welcome to my blog
     feature_image: https://picsum.photos/2560/600?image=866
   uploads:
     title: Uploads
