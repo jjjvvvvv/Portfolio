@@ -8,4 +8,6 @@ feature_text: 'the second post in a series.
 '
 ---
 
-2nd example post
+2nd example post. 
+
+I don't know why it isn't showing up though. 
