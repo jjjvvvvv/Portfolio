@@ -1,5 +1,5 @@
 ---
-title: Interests
+title: Categories
 excerpt: Category index
 aside: true
 layout: categories
