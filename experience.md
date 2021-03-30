@@ -1,5 +1,5 @@
 ---
-title: Experience
+title: Elements
 position: 1
 feature_text: |-
   **What do I want this page to be?**
