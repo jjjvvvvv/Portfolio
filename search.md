@@ -1,6 +1,6 @@
 ---
 title: Search
-position: 3
+position: 4
 excerpt: Search for a page or post you're looking for
 ---
 

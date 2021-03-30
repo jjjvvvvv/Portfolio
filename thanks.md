@@ -1,6 +1,6 @@
 ---
 title: Thanks!
-position: 4
+position: 5
 indexing: false
 sitemap: false
 ---
