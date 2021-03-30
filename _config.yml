@@ -82,12 +82,10 @@ favicons:
 navigation_header:
 - title: Home
   url: "/"
-- title: Elements
-  url: "/elements/"
+- title: Experience
+  url: "/experience/"
 - title: Blog
   url: "/blog/"
-- title: Categories
-  url: "/categories/"
 - title: Search
   url: "/search/"
 social_links:
